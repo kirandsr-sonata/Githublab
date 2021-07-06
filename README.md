@@ -1,10 +1,3 @@
-# youtube-2020-april-nextjs-part8
-Next.js SSG using getStaticPaths and getStaticProps
+A GitHub Actions Demo Using a NextJS App and Deploying it to GitHub Pages
 
-YouTube Video building the microphone store: https://youtu.be/MxlmfI9IxVs
-
-
-Deployed App URL: https://bmvantunes.github.io/youtube-2020-august-github-pages-github-actions/
-
-
-YouTube Video Deploying the App: https://youtu.be/yRz8D_oJMWQ 
+You can View the Deployed Website here: https://vishalcodes.github.io/NextJS/
